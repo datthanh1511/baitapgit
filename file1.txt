@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  some thing for file 1 
+=======
+ sua tu file1 branch feature_x
+>>>>>>> feature_x
